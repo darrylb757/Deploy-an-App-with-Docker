@@ -3,7 +3,6 @@ Docker is a platform that lets you package applications and all their dependenci
 
 # Deploy an App with Docker
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-compute-eb)
 
 **Author:** Darryl Brown  
 **Email:** darrylbrown1991@gmail.com
