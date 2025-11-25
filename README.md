@@ -1,6 +1,5 @@
 # Deploy-an-App-with-Docker
 Docker is a platform that lets you package applications and all their dependencies into containers, which run the same on any system.
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # Deploy an App with Docker
 
